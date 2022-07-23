@@ -1,5 +1,1 @@
-# test
-
-# hello
-
-# new branch
+# Git & GitHub practice repo
